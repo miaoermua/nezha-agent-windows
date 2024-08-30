@@ -12,4 +12,4 @@ REM
 :: 下面是哪吒探针的路径
 cd C:\AppData\nezha-agent
 :: 下面是哪吒探针启动参数；默认开启禁止自动更新，禁止 WebShell，默认不使用 TLS
-nezha-agent.exe -i 5 -s %HOST%:%PORT% -p %TOKEN% -d --disable-auto-update --disable-command-execute
+nezha-agent.exe --report-delay 4 -s %HOST%:%PORT% -p %TOKEN% -d --disable-auto-update --disable-command-execute

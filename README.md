@@ -9,6 +9,7 @@
 https://github.com/nezhahq/agent/releases
 
 https://github.com/miaoermua/nezha-agent-windows/archive/refs/heads/main.zip
+
 将文件解压到和探针一个位置
 
 ## 配置探针

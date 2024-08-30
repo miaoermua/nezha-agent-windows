@@ -1,6 +1,6 @@
 # nezha-agent-windows
 
-哪吒探针 Windows 11 Terminal 隐藏任务
+哪吒探针(nezha-agent) Windows 11 Terminal 隐藏任务
 
 **默认不使用 TLS，禁用自更新，禁用 Webshell**
 
@@ -10,11 +10,11 @@ https://github.com/nezhahq/agent/releases
 
 https://github.com/miaoermua/nezha-agent-windows/archive/refs/heads/main.zip
 
-将文件解压到和探针一个位置
+将 .vbs & .bat 文件解压到和探针 (agent) 一个位置
 
 ## 配置探针
 
-需要修改探针配置
+需要修改探针配置为面板提供
 
 ```
 set TOKEN=

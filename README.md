@@ -4,6 +4,13 @@
 
 **默认不使用 TLS，禁用自更新，禁用 Webshell**
 
+## 需要下载
+
+https://github.com/nezhahq/agent/releases
+
+https://github.com/miaoermua/nezha-agent-windows/archive/refs/heads/main.zip
+将文件解压到和探针一个位置
+
 ## 配置探针
 
 需要修改探针配置

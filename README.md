@@ -2,6 +2,8 @@
 
 哪吒探针(nezha-agent) Windows 11 Terminal 隐藏任务
 
+> 仅适用于 v0.x 版本，新版本改为配置文件。
+
 **默认不使用 TLS，禁用自更新，禁用 Webshell**
 
 ## 需要下载
